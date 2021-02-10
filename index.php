@@ -1,3 +1,3 @@
 <?php
-include_once("sam.html") 
+include_once("sam.html");
 ?>
